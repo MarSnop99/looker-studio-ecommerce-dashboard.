@@ -1,10 +1,12 @@
 Global E-commerce Operations: Command Center Dashboard
  Spis Treści
+ 
 Opis Projektu
 Link do Interaktywnego Dashboardu
 Użyte Narzędzia i Technologie
 Kluczowe Funkcjonalności i Zaimplementowane Techniki
 Podgląd Dashboardu
+
 Opis Projektu
 Celem tego projektu było stworzenie w pełni funkcjonalnego i interaktywnego dashboardu analitycznego w Looker Studio, który służy jako centrum dowodzenia dla fikcyjnej firmy e-commerce "Superstore". Dashboard umożliwia menedżerom monitorowanie kluczowych wskaźników wydajności (KPI), analizę rentowności w różnych wymiarach, śledzenie trendów w czasie oraz dogłębną eksplorację danych produktowych i geograficznych.
 
@@ -41,6 +43,7 @@ Złożone Wizualizacje:
 
 Wykres Kombinowany (Combo Chart): Wizualizacja metryk o różnych skalach (sprzedaż i rentowność) na jednej osi czasu z wykorzystaniem dwóch osi Y.
 Tabela Przestawna (Pivot Table): Prezentacja danych w wielowymiarowej macierzy (produkty vs. segmenty klientów).
-🖼️ Podgląd Dashboardu
+
+Podgląd Dashboardu
 
 <img width="1083" height="816" alt="image" src="https://github.com/user-attachments/assets/f5c6237d-5cee-4bd7-959b-8eae237c792a" />
